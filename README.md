@@ -1,1 +1,2 @@
-# Angular-task-2
+# SecondAngularProject
+Book Project in Angular Framework
